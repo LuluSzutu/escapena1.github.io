@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+
+#main-content {
+  text-align: justify;
+  color: blue;  
+}
+
+div {
+  text-align: justify;
+}
+
+.section h5 {
+  text-align: justify;
+}
+img {
+  display: block;
+  text-align: center;
+}
+
+#main-image {
+  background: red;
+}
